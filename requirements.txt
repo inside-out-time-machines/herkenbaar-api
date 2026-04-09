@@ -1,0 +1,12 @@
+# Web Framework & Server
+fastapi
+uvicorn
+python-multipart
+
+# AI & Computer Vision
+ultralytics
+pillow
+opencv-python-headless
+
+# Utilities
+requests
