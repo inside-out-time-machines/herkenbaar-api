@@ -94,3 +94,11 @@ Controleer een online afbeelding door de URL op te geven.
 [Straatbeeld 2 (SAMH 0440. 61155)](https://samh.nl/bronnen/beeldbank/detail/0332b9b3-68b1-7e64-d3ae-8ba231dc440a/media/e6029902-fbd7-3800-66e3-f8f7441450ae) > **nee**
 
 ![Straatbeeld 2 (SAMH 0440. 61155)](assets/voorbeelden/NL-GdSAMH_0440_61155_Fotocollectie_MH.jpg)
+
+## Licentie
+
+Deze dienst is beschikbaar onder de [AGPL-3.0](LICENCE): de gebruikte
+detectiebibliotheek (ultralytics/YOLO) is AGPL-3.0-gelicentieerd en dat werkt door in deze
+codebase. Omdat de Herkenbaar API een losse netwerkdienst is, stopt de AGPL bij de API-grens:
+toepassingen die de API aanroepen (zoals het Jottem-platform, EUPL-1.2) worden er niet door
+geraakt.
